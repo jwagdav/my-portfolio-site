@@ -1974,7 +1974,15 @@ input, select, textarea {
 				.icon.circle.fa-github:hover {
 					background: #e1b89b;
 				}
+			
+			.icon.circle.fa-linkedin {
+				background: #70aecd;
+				color: #fff;
+			}
 
+			.icon.circle.fa-linkedin:hover {
+				background: #7fb7d2;
+			}
 			.icon.circle.fa-dribbble {
 				background: #da83ae;
 				color: #fff;
